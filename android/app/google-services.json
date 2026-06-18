@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028753789025",
+    "project_id": "keris-il-2026",
+    "storage_bucket": "keris-il-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028753789025:android:d3d2a880b018b97b4b5a20",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_keris_infinite_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBefvKoGfPr-9W7LU9i2w-57hgwzsZpDeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
